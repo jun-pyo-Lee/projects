@@ -1,0 +1,89 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;    
+    list-style: none;
+}
+/* 나중에 지워야함 */
+.introduce{
+	position: absolute;
+	left:50%;
+	top:30px;
+	transform:translateX(-50%);
+}
+body{
+    width: 100vw;
+    height: 200vh;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+body::-webkit-scrollbar {
+    display: none; 
+}
+.full{
+    position: absolute;
+    width: 100%;
+    padding-top:100px;
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    width: 70vw;
+    
+}
+.top{
+    width: 100%;
+    height: 250px;
+    border: 1px solid #26292d;
+    display: flex;
+    justify-content: space-between;
+    padding:20px
+}
+.topinner{
+    flex: 1;
+    height: 100%;
+    border: 3px solid #26292d;
+    border-radius:10px;
+    transition: all .3s;
+    cursor: pointer;
+    text-align: center;
+    padding-top:80px
+}
+.topinner:hover{
+    transform: translateY(15px);
+}
+.ti01, .ti02, .ti03{
+    margin-right: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  게시판  */
+.board{
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    overflow: scroll;
+}
+.board tr,td,th{
+    border: 1px solid black;
+}
+.board tr{
+	height: 40px;
+}
+
+.title{
+    text-align: left;
+    padding-left: 10px;
+}
