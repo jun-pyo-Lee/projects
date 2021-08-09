@@ -41,8 +41,7 @@
 
 #### Process 흐름도
 
-※사진 추가하자※
-
+![흐름도](https://user-images.githubusercontent.com/58018170/128720620-13b8adb3-0061-4151-ae76-25d5a970145e.png)
 - - -
 
 
