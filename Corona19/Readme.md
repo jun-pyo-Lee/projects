@@ -20,5 +20,17 @@
 운영체제를 선택해서 설치하자
 - - - 
 # VScode에서 java환경 구축하기
-1. 일단 라이브러리 관리 도구인 [Maven](http://maven.apache.org/)을 설치 하자
+1. JDK를 설치하자 16버전으로 설치했고 
+설치 방법은 
+![javaex](https://user-images.githubusercontent.com/58018170/129020504-877cec8e-bb61-4ad0-b3ea-2168ccce4a8c.png)
+**VScode** 를 실행하고 빨간색 원 ( 확장프로그램 ) 을 눌러 검색창에 Java Extension Pack을 설치해준다.
+
+코드를 검사해주는 **Debugger**   
+테스트 클래스의 구조에 맞게 테스트 메소드들을 실행하고 결과를 표시하는 역할 **TestRunner**   
+라이브러리 관리 도구 **Maven**   
+등이 설치된다.   
+
+
+
+
 
