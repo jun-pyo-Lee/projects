@@ -4,7 +4,7 @@
 
 기존에는 이클립스 IDE를 활용해서 프로젝트를 생성했었다면
 
-이번에는 VScode라는 IDE를 이용해서 설치-> 개발환경구축 까지 공부하며 해볼생각이다
+이번에는 IntelliJ IDEA 이용해서 설치-> 개발환경구축 까지 공부하며 해볼생각이다
 
 처음 만져보는 IDE이고 파이썬은 많이 까먹어서 어려움이 있겠지만, 해봐야겠다.
 
@@ -15,10 +15,12 @@
 
 
 - - - 
-# VScode 설치 링크
-[VScode설치](https://code.visualstudio.com/)
+# Intellij 설치 링크
+[Intellij 설치](https://www.jetbrains.com/ko-kr/idea/)
 운영체제를 선택해서 설치하자
 - - - 
+
+
 # VScode에서 java환경 구축하기
 1. JDK를 설치하자 16버전으로 설치했고 
 설치 방법은 
